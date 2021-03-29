@@ -1,4 +1,5 @@
-# [jifenghi](https://jifenghi.github.io)
+# jifenghi
 jifenghi的个人博客
 
-[Google](http://www.google.com/)
+
+[test](./src/test.md)
